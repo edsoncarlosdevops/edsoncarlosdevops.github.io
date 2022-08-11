@@ -1,0 +1,4 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/merinhunter/hugo-theme-introduction.git
+	branch = fix-339
