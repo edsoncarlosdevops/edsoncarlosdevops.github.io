@@ -5,7 +5,7 @@ DefaultContentLanguage = "en"                              # Default language fo
 # googleAnalytics        = ""                                # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle    = "auto"                     # Choose "light" or "dark" or "auto"
+    themeStyle    = "dark"                     # Choose "light" or "dark" or "auto"
     favicon       = "/img/code-solid.svg"      # Path to favicon file
     showMenu      = false                      # Show navigation menu
     showRSSButton = false                      # Show rss button in navigation
@@ -60,19 +60,15 @@ DefaultContentLanguage = "en"                              # Default language fo
         icon      = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url       = "https://gitlab.com/merinhunter"
-        icon      = "gitlab" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url       = "https://linkedin.com/in/smerinoh"
+        url       = "https://linkedin.com/in/edson-carlos/"
         icon      = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url       = "https://twitter.com/merinhunter"
+        url       = "https://twitter.com/Ecdsj_"
         icon      = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url       = "mailto:merinhunter94@gmail.com"
+        url       = "mailto:edsoncarlos007@usp.br"
         icon      = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
 
@@ -115,7 +111,7 @@ DefaultContentLanguage = "en"                              # Default language fo
         languageCode = "en-us"
         contentDir   = "content/en"
         weight       = 0
-        title        = "Sergio Merino Hernández"
+        title        = "Edson Carlos"
         [languages.en.params]
             description = "Personal website"  # Max 160 characters show in search results
             # footerText  = ""                  # Text to override default footer text (markdown allowed)
