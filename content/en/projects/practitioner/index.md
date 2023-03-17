@@ -1,6 +1,10 @@
 ---
 title: "[AWS Cloud Practitioner](https://www.credly.com/badges/2ea4ca83-5f2c-4b8b-b53e-56cac18135c0/public_url)"
 weight: 3
+resources:
+    - src: practitioner.png
+      params:
+          weight: -100
 ---
 
 Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
