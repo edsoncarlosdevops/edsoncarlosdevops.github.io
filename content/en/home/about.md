@@ -4,7 +4,7 @@ image: "profile.jpg"
 weight: 8
 ---
 
-DevOps Engineer and student at the University of São Paulo, pursuing a degree in Computational Physics. Passionate about technology and always motivated to learn new things and take on challenges. In my free time, I enjoy running and staying active. I am constantly striving to improve my skills and knowledge in the field of DevOps. Proud to be Brazilian.
+Hey there! I'm a DevOps Engineer and a student at the University of São Paulo, currently studying Computational Physics. I absolutely love technology and am always excited to learn new things and take on challenges. When I'm not geeking out, you can usually find me going for a run or staying active in some way. I'm always looking for ways to improve my skills and knowledge in the DevOps field, and I'm super proud to be Brazilian!
 
 
 
@@ -14,5 +14,5 @@ DevOps Engineer and student at the University of São Paulo, pursuing a degree i
 * Docker
 * Kubernetes
 * Terraform
-* AWS
-* Azure
+* 3x AWS
+* 2x Azure

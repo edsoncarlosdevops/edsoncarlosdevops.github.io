@@ -52,6 +52,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
     # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
+     [[params.social]]
+        url   = "https://instagram.com/ecdsj_"
+        icon  = "instagram" # icon name without the 'fa-'
+        icon_pack = "fab"
     [[params.social]]
         url   = "https://twitter.com/Ecdsj_"
         icon  = "twitter" # icon name without the 'fa-'
