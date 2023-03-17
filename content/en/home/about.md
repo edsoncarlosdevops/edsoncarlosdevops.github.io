@@ -8,7 +8,7 @@ Hey there! I'm a DevOps Engineer and a student at the University of São Paulo, 
 
 
 
-### Habilidades
+### Skills
 
 * Linux
 * Docker
