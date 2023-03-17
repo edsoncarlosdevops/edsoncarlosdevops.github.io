@@ -6,7 +6,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
 [params]
     themeStyle                   = "dark"                  # Choose "light" or "dark" or "auto"
-    favicon                      = "/img/fav.ico"          # Path to favicon file
+    favicon                      = "/img/code-solid.svg"          # Path to favicon file
     showMenu                     = true                    # Show navigation menu
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
