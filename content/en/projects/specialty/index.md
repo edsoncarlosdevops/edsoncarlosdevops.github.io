@@ -1,10 +1,6 @@
 ---
 title: "[AWS Solutions Architect Associate](https://www.credly.com/badges/48100d4b-59c9-4ff3-a337-3d90c612784f/public_url)"
-weight: 2
-resources:
-    - src: associate.jpg
-      params:
-          weight: -100
+weight: 3
 
 ---
 
