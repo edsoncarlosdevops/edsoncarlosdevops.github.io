@@ -21,7 +21,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 5                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
@@ -77,9 +77,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #     url     = "/"
 #     weight  = 0
 #[[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
+     name    = "Blog"
+     url     = "/blog/"
+     weight  = 1
 
 # We only use tag as a taxonomies
 # You can add more by yourself
