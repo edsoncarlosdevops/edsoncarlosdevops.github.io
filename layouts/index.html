@@ -46,12 +46,13 @@
         {{ $home := . }}
         {{ $pages := .Resources.ByType "page" }}
 
-        {{ with .Site.GetPage "/blog" }}
+       
+        {{ with .Site.GetPage "/projects" }}
             {{ $pages = $pages | append . }}
         {{ end }}
 
-        {{ with .Site.GetPage "/projects" }}
-            {{ $pages = $pages | append . }}
+        {{ with .Site.GetPage "/blog" }}
+        {{ $pages = $pages | append . }}
         {{ end }}
 
         {{ range sort $pages "Params.weight" }}
