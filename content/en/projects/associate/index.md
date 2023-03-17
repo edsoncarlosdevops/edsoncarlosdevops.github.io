@@ -1,5 +1,5 @@
 ---
-title: "[AWS Security Specialty](https://www.credly.com/badges/c6f62e2c-6231-4883-ac83-0f79842a47df/public_url)"
+title: "AWS Security Specialty"
 weight: 3
 resources:
     - src: specialty.png

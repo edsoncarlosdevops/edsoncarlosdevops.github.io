@@ -1,5 +1,5 @@
 ---
-title: "[AWS Cloud Practitioner](https://www.credly.com/badges/2ea4ca83-5f2c-4b8b-b53e-56cac18135c0/public_url)"
+title: "AWS Cloud Practitioner"
 weight: 3
 resources:
     - src: practitioner.png
