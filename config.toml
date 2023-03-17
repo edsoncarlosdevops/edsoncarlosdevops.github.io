@@ -7,12 +7,12 @@ DefaultContentLanguage = "en"                              # Default language fo
 [params]
     themeStyle    = "dark"                     # Choose "light" or "dark" or "auto"
     favicon       = "/img/code-solid.svg"      # Path to favicon file
-    showMenu      = false                      # Show navigation menu
-    showRSSButton = false                      # Show rss button in navigation
-    fadeIn        = false                      # Turn on/off the fade-in effect
+    showMenu      = true                      # Show navigation menu
+    showRSSButton = true                      # Show rss button in navigation
+    fadeIn        = true                      # Turn on/off the fade-in effect
     fadeInIndex   = true   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat    = "Jan 2, 2006"
-    email         = "merinhunter94@gmail.com"  # E-mail address for contact section
+    email         = "edsoncarlos007@usp.br"  # E-mail address for contact section
     # customCSS     = ["foo.css"]                # Include custom css files placed under assets/
     # customJS      = ["foo.js"]                 # Include custom JavaScript files placed under assets/
     # plausible     = true                       # Use Plausible analytics (requires an account at Plausible.io)
@@ -25,8 +25,8 @@ DefaultContentLanguage = "en"                              # Default language fo
         allPostsArchiveFormat  = true             # show all posts in an archive format
         numberOfProjectsToShow = 3                # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime              = true             # Show your current local time in contact section
-        timeZone               = "Europe/Madrid"  # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-        timeFormat             = "en-US"          # Language specific format to use
+        timeZone               = "America/Sao_Paulo"  # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat             = "pt-BR"          # Language specific format to use
 
     [params.projects]
         useTwoColumns = false  # Use a layout with two columns instead of three
