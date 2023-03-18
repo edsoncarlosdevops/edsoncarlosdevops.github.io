@@ -23,7 +23,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         showLatest               = false                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = false                    # show all posts in an archive format
-        numberOfProjectsToShow   = 5                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        numberOfProjectsToShow   = 0                      # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/Sao_Paulo"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "pt-BR"                 # Language specific format to use
@@ -32,8 +32,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = true
-        linkedin                 = true
+        twitter                  = false
+        linkedin                 = false
     # To enable giscus, the GitHub-discussions-based comment section,
     # input the repository for the discussions below. For more details, see
     # https://www.joelnitta.com/posts/2021-11-24_using-giscus/
@@ -82,9 +82,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #     url     = "/"
 #     weight  = 0
 #[[menu.main]]
-     name    = "Blog"
-     url     = "/blog/"
-     weight  = 1
+#     name    = "Blog"
+#     url     = "/blog/"
+#     weight  = 1
 
 # We only use tag as a taxonomies
 # You can add more by yourself
