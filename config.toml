@@ -21,8 +21,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
         showLatest               = false                    # Show latest blog post summary
-        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
-        allPostsArchiveFormat    = true                    # show all posts in an archive format
+        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        allPostsArchiveFormat    = false                    # show all posts in an archive format
         numberOfProjectsToShow   = 5                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "America/Sao_Paulo"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -52,13 +52,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
     # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
-     [[params.social]]
-        url   = "https://instagram.com/ecdsj_"
-        icon  = "instagram" # icon name without the 'fa-'
-        icon_pack = "fab"
     [[params.social]]
-        url   = "https://twitter.com/Ecdsj_"
-        icon  = "twitter" # icon name without the 'fa-'
+    url = "https://medium.com/"
+        icon = "medium-m"
         icon_pack = "fab"
     [[params.social]]
         url   = "https://www.linkedin.com/in/edson-carlos/"
@@ -68,6 +64,15 @@ DefaultContentLanguage           = "en"                    # Default language fo
         url = "mailto:edsoncarlos007@usp.br"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
+     [[params.social]]
+        url   = "https://instagram.com/ecdsj_"
+        icon  = "instagram" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://twitter.com/Ecdsj_"
+        icon  = "twitter" # icon name without the 'fa-'
+        icon_pack = "fab"
+    
  
 
 
