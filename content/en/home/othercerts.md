@@ -1,5 +1,5 @@
 ---
-title: "Certifications "
+title: "Certifications"
 weight: 30
 ---
 
