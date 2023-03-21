@@ -76,6 +76,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         url   = "https://twitter.com/Ecdsj_"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
+    [[params.social]]
+    url = "https://www.strava.com/athletes/45597338"
+    icon = "strava"
+    icon_pack = "fab"
     
  
 

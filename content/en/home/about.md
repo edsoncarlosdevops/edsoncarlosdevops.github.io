@@ -17,5 +17,5 @@ Hey there! I'm a DevOps Engineer and a student at the University of São Paulo, 
 * Docker
 * Kubernetes
 * Terraform
-* 3x AWS
-* 2x Azure
+* 3x AWS Certified
+* 2x Azure Certified
