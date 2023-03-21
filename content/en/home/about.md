@@ -19,3 +19,10 @@ Hey there! I'm a DevOps Engineer and a student at the University of São Paulo, 
 * Terraform
 * 3x AWS Certified
 * 2x Azure Certified
+
+Exemplo | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
