@@ -10,7 +10,7 @@ weight: 30
 
 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c6f62e2c-6231-4883-ac83-0f79842a47df/public_url)
 
-HashiCorp Certified: Terraform Associate
+[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/4697c2ef-aef4-450a-9bd6-93c72924abe6/public_url)
 
 [Docker Uncomplicated: LINUXTips](https://www.credential.net/8fd6dde1-f3bf-4f9a-9f2d-23e53f7de490?username=edsoncarlosdossantosjunior514233)
 
