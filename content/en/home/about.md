@@ -13,9 +13,10 @@ Hey there! I'm a DevOps Engineer and a student at the University of São Paulo, 
 
 ### Skills
 
+
+* Observality & Monitoring: Grafana, Prometheus
 * Operational System: Linux, Windows
 * Security: Sonarqube, OWASP, Wazuh
-* Observality: Grafana, Prometheus
 * Containers: Docker, Kubernetes
 * CI/CD: Azure DevOps, Jenkins
 * Infra as Code: Terraform 
