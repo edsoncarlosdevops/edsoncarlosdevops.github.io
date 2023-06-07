@@ -1,6 +1,5 @@
 ---
 title: "About"
-#image: "profile.jpg"
 weight: 8
 ---
 
