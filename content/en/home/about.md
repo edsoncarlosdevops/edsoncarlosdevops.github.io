@@ -19,7 +19,7 @@ Hi, my name is Edson Carlos! 😁
 * CI/CD: Azure DevOps, Gitlab, GitHub
 * Operational System: Linux, Windows
 * Observability & Monitoring: Grafana
-* Infra as Code: Terraform 
 * Cloud: AWS, Azure, GCP
+* Infra as Code: Terraform 
 * Tools: Sonarqube
 
