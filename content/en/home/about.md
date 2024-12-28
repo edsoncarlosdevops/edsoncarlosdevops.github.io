@@ -6,22 +6,25 @@ weight: 8
 
 Hi, my name is Edson Carlos! 😁
 
-• I have approximately 2 years of experience as a DevOps Analyst and Solutions Architect, in which I can highlight the following tasks performed: Implementation of CI/CD processes, creation of scripts for the automation of pipeline templates, customized creation of dashboards in Grafana for observability and monitoring, resolution of problems in critical environments, and others. 
+I’m a DevOps Engineer with over three years of experience helping teams automate workflows and build reliable, scalable systems. I specialize in creating CI/CD pipelines using tools like Jenkins, GitLab, and Azure DevOps, and managing containerized applications with Kubernetes and Helm. I also work with Terraform for infrastructure as code and use Grafana for monitoring and improving system observability.
 
-• Also, I have worked on various projects that allowed me to learn and use several technologies, including AWS, GCP, Azure, Azure DevOps, GitHub Actions, Gitlab, Grafana, Docker, Kubernetes, Helm, Shell Script, Python, and Linux. I already got the CKA certification! The next will be CKAD 💪
+Throughout my career, I’ve worked with major cloud platforms like AWS, GCP, and Azure, solving critical issues and optimizing environments for performance and efficiency. I hold certifications such as CKA, Terraform Associate, and AWS Solutions Architect, showcasing my commitment to continuous learning and mastering modern DevOps practices.
 
-[`Resume`](https://drive.google.com/file/d/1IzBuYPcFiGp3imcE9mqOQYq0oAPUCZG2/view?usp=sharing) [`Currículo`](https://drive.google.com/file/d/1sVQ5cqzDhObNVFmCt5CWMrdCpTRYqIHZ/view?usp=sharing)
+I’m passionate about simplifying complex processes, improving collaboration, and delivering results that help teams move faster. Let’s connect to explore how I can contribute to your projects and drive innovation through automation and reliability! 🚀
+
+• My goals for 2025 are to become a Kubestronaut, earn the five Kubernetes-related certifications, and pursue the blue jacket filled with knowledge 💪
+
+[`Resume`](https://drive.google.com/file/d/1ucQqcYSUTzwakOfK94eaM4sZRQC03lrK/view?usp=sharing) [`Currículo`](https://drive.google.com/file/d/1eM3IP-JPJMWZQTWXZNtExlJ1vJsIJQUC/view?usp=sharing)
 
 
 
 
-### Skills
+### Tools I Have Worked With
 
+* Observability & Monitoring: Grafana, Prometheus
+* CI/CD: Azure DevOps, Gitlab, GitHub, Jenkins 
 * Containers: Docker, Kubernetes, Helm
-* CI/CD: Azure DevOps, Gitlab, GitHub
 * Operational System: Linux, Windows
-* Observability & Monitoring: Grafana
-* Cloud: AWS, Azure, GCP
+* Cloud: AWS, Azure, GCP, OCI
 * Infra as Code: Terraform 
-* Tools: Sonarqube
 
