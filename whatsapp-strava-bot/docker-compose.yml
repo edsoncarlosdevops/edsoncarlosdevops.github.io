@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: strava-whatsapp-bot
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config
+      - ./.wwebjs_auth:/app/.wwebjs_auth
+    environment:
+      - STRAVA_CLIENT_ID=${STRAVA_CLIENT_ID}
+      - STRAVA_CLIENT_SECRET=${STRAVA_CLIENT_SECRET}
+      - STRAVA_VERIFY_TOKEN=${STRAVA_VERIFY_TOKEN}
+      - WEBHOOK_URL=${WEBHOOK_URL}
+      - WHATSAPP_GROUP_ID=${WHATSAPP_GROUP_ID}
+      - DATABASE_URL=sqlite:///data/strava_runs.db
+      - WEBHOOK_PORT=8000
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    network_mode: host
