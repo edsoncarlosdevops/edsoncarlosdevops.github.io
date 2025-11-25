@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-strava-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for Strava running tracking and rankings",
+  "main": "src/whatsapp/bot.js",
+  "scripts": {
+    "start": "node src/whatsapp/bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^4.18.2",
+    "axios": "^1.6.5",
+    "dotenv": "^16.3.1"
+  }
+}
