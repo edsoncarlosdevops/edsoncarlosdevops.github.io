@@ -6,7 +6,7 @@ weight: 8
 
 Hi, my name is Edson Carlos! 😁
 
-I’m a DevOps Engineer with over fours years of experience helping teams automate workflows and build reliable, scalable systems. I specialize in creating CI/CD pipelines using tools like Jenkins, GitLab, and Azure DevOps, and managing containerized applications with Kubernetes and Helm. I also work with Terraform for infrastructure as code and use Grafana for monitoring and improving system observability.
+I’m a DevOps Engineer with over five years of experience helping teams automate workflows and build reliable, scalable systems. I specialize in creating CI/CD pipelines using tools like Jenkins, GitLab, and Azure DevOps, and managing containerized applications with Kubernetes and Helm. I also work with Terraform for infrastructure as code and use Grafana for monitoring and improving system observability.
 
 Throughout my career, I’ve worked with major cloud platforms like AWS, GCP, and Azure, solving critical issues and optimizing environments for performance and efficiency. I hold certifications such as CKA, Terraform Associate, and AWS Solutions Architect, showcasing my commitment to continuous learning and mastering modern DevOps practices.
 
