@@ -17,3 +17,10 @@ hugo.linux
 /.hugo_build.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
+
+### Node ###
+node_modules/
+
+### Windows WSL artifacts ###
+*:Zone.Identifier
+*.jpgZone.Identifier
