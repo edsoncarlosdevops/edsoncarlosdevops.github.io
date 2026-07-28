@@ -6,24 +6,28 @@ weight: 8
 
 Hi, my name is Edson Carlos! 😁
 
-I’m a DevOps Engineer with over five years of experience helping teams automate workflows and build reliable, scalable systems. I specialize in creating CI/CD pipelines using tools like Jenkins, GitLab, and Azure DevOps, and managing containerized applications with Kubernetes and Helm. I also work with Terraform for infrastructure as code and use Grafana for monitoring and improving system observability.
+I'm a DevOps & Cloud Engineer with over five years of experience building reliable, scalable infrastructure and helping teams ship software faster through automation. I hold a BSc in Computational Physics from the University of São Paulo (USP) and I'm currently pursuing a degree in Natural Science Education at USP as well.
 
-Throughout my career, I’ve worked with major cloud platforms like AWS, GCP, and Azure, solving critical issues and optimizing environments for performance and efficiency. I hold certifications such as CKA, Terraform Associate, and AWS Solutions Architect, showcasing my commitment to continuous learning and mastering modern DevOps practices.
+Currently, I serve as a **Cloud Engineer at Qompyl** (San Diego, CA), a fintech startup building a no-code algorithmic trading platform. I design and maintain the entire **Azure cloud infrastructure** using **Terraform** (29+ modules), architect **multi-environment CI/CD pipelines** with **Azure DevOps**, and manage containerized microservices with **Docker** and **Kubernetes**. Working in a fully remote, global async-first team.
 
-I’m passionate about simplifying complex processes, improving collaboration, and delivering results that help teams move faster. Let’s connect to explore how I can contribute to your projects and drive innovation through automation and reliability! 🚀
+I also work as a **Sr. DevOps Engineer at Overlabs** (DirecTV Argentina), where I lead DevSecOps initiatives across Jenkins CI/CD pipelines, manage multi-cluster Kubernetes environments through Rancher, and maintain Terraform modules for standardized cloud provisioning. Monitoring production using the OpenTelemetry stack with Grafana, Prometheus, Loki, and Tempo.
+
+I hold industry certifications including **CKA** (Certified Kubernetes Administrator), **Terraform Associate**, **AWS Solutions Architect**, **AWS Security Specialty**, and **Azure Fundamentals**, reflecting my commitment to continuous learning and mastering modern cloud-native practices.
+
+I'm fluent in Portuguese, Spanish, and English — and passionate about simplifying complex processes, improving collaboration, and delivering results that help teams move faster. Let's connect! 🚀
 
 
-[`Resume`](https://drive.google.com/file/d/1ArXGQ1fUDRwWwfrOQQs3yiROSE6pNvXt/view?usp=sharing) 
-
+[`Resume`](https://drive.google.com/file/d/1j7UNuQS8AL5bOIKP5aAE0YqV8vzXp4xb/view?usp=drive_link) 
 
 
 
 ### Tools I Have Worked With
 
-* Observability & Monitoring: Otel, Grafana, Prometheus
-* CI/CD: Azure DevOps, Gitlab, GitHub, Jenkins 
-* Containers: Docker, Kubernetes, Helm
-* Operational System: Linux, Windows
+* Observability & Monitoring: OpenTelemetry, Grafana, Prometheus, Loki, Tempo
+* CI/CD: Azure DevOps, Jenkins, GitLab, GitHub Actions
+* Containers & Orchestration: Docker, Kubernetes, Helm, Rancher, Istio
 * Cloud: AWS, Azure, GCP, OCI
-* Infra as Code: Terraform 
+* Infra as Code: Terraform, Ansible
+* Security: Veracode, SonarQube, OWASP ZAP
+* Operating Systems: Linux, Windows Server
 

@@ -3,4 +3,4 @@ title: "Blog"
 weight: 30
 ---
 
-Technicals contents on [Medium](https://medium.com/@ecdsj).
+I write about DevOps, cloud infrastructure, and automation on [Medium](https://medium.com/@ecdsj). Check out my latest posts!

@@ -1,5 +1,5 @@
 ---
 title: "Contact"
 ---
-If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at:
+I'm always open to new opportunities, collaborations, or just a good conversation about DevOps, cloud infrastructure, and automation. Feel free to reach out:
 

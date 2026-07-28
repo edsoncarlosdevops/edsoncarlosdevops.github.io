@@ -125,7 +125,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         weight           = 0
         title            = "Edson Carlos"
         [languages.en.params]
-            description  = "Personal Website"   # Max 160 characters show in search results
+            description  = "DevOps & Cloud Engineer | Terraform, Kubernetes, Azure & AWS | Building reliable infrastructure at scale"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     
