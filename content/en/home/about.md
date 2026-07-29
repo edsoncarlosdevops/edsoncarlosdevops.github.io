@@ -8,7 +8,7 @@ I'm a DevOps & Cloud Engineer with over five years of experience building reliab
 
 I specialize in **Infrastructure as Code** with Terraform (AWS, Azure, GCP, OCI), **container orchestration** with Kubernetes and Helm, and building robust **CI/CD pipelines** using Jenkins, Azure DevOps, GitLab, and GitHub Actions. I'm also deeply invested in **observability** — from instrumenting applications with OpenTelemetry to building full monitoring stacks with Grafana, Prometheus, Loki, and Tempo.
 
-What sets me apart is the intersection of disciplines I bring to the table: I write **Kubernetes operators in Rust**, develop **AI/ML trading models** with LSTM neural networks, build **CI/CD pipelines for autonomous robotic swarms**, and maintain my own **homelab infrastructure** on k3s with ArgoCD GitOps. I'm not just a pipeline builder — I'm an engineer who understands the systems end to end. Check my projects on [GitHub](https://github.com/edsoncarlosdevops).
+Beyond core DevOps, I am naturally curious and enjoy exploring different tech domains through personal projects. I've experimented with **ROS2 robotics simulations**, **mobile app development**, **Rust**, and maintaining my own **homelab infrastructure** on k3s with ArgoCD GitOps. I'm driven by continuous learning and an interest in understanding systems end to end. Check my projects on [GitHub](https://github.com/edsoncarlosdevops).
 
 I hold industry certifications including **CKA**, **Terraform Associate**, **AWS Solutions Architect**, **AWS Security Specialty**, and **Azure Fundamentals**. Native Portuguese speaker, fluent in Spanish, and advanced (B2+) in English — and I code in Python, Go, Rust, and Shell.
 
